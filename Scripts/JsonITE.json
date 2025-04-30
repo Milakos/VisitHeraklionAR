@@ -1,0 +1,922 @@
+{
+    "Paths" : 
+    [
+        {
+            "key" : "CostalRoute", 
+            "greekTitle" : "Παραλιακή Διαδρομή",
+            "englishTitle" : "Coastal Route",
+            "greekText": "Ακολουθήστε την παραλιακή διαδρομή που ξεκινά από τα Ανατολικά Νεώρια και καταλήγει στον Προμαχώνα-Πύλη του Αγίου Ανδρέα. Θα έχετε την ευκαιρία να απολαύσετε τον περίπατό σας με θέα το απέραντο γαλάζιο και παράλληλα θα δείτε αρκετά από τα πιο σημαντικά μνημεία της πόλης, όπως το ενετικό λιμάνι Ηρακλείου, το μεγαλοπρεπές φρούριο Rocca a mare (Κούλες), τον ναό και τη Μονή του Αγίου Πέτρου του Μάρτυρα των Δομινικανών, το Ιστορικό Μουσείο, καθώς και το Μουσείο Φυσικής Ιστορίας.", 
+            "englishText": "Follow the coastal route that starts from the East Shipyards and ends at the Bastion-Gate of St. Andreas. You will have the opportunity to enjoy your walk with a view of the endless blue sky and at the same time you will see several of the most important monuments of the city, such as the Venetian port of Heraklion, the majestic fortress Rocca a Mare (Koules), the temple and the Monastery of St. Peter the Martyr of the Dominican Order, the Historical Museum, as well as the Natural History Museum.",
+            
+
+            "coastRoute": 
+            [
+                {
+                    "key" : "coastRoute1",
+                    "englishTitle" : "Shipyards",
+                    "englishText" : "Opposite the Venetian harbor, are the Venetian Shipyards (Neoria), domed elongated structures. In their attempt to make the port of the city more secure, the Venetians built walls to protect it and shipyards where ships were built and repaired. ",
+                    "greekTitle" : "Νεώρια",
+                    "greekText" : " Απέναντι από το ενετικό λιμάνι βρίσκονται τα Νεώρια, δηλαδή θολοσκεπείς επιμήκεις κατασκευές. Οι Βενετοί στην προσπάθειά τους να κάνουν το λιμάνι της πόλης πιο ασφαλές, έχτισαν τείχη για την προστασία του και νεώρια, όπου ναυπηγούσαν και επισκεύαζαν τα πλοία"
+                    ,"coordinates" : "35.34200,25.13690",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "Neoria_1",
+                    "addressG" : "Λεωφόρος Νεωρίων",
+                    "addressE" : "Neoria Avenue",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Είσοδος Ελεύθερη",
+                    "EntryE" : "Free Entarnce"
+
+                },
+                {
+                    "key" : "coastRoute2",
+                    "englishTitle" : "Koules Fortress",
+                    "englishText" : "Τhe Venetian fortress of Koules or Rocca a Mare (=Fortress on the Sea) dominates at the entrance of the port and is a symbol of Heraklion. In the interior, there is an exhibition space with rich photographic material of the city and exhibits from the wreck of the French ship, La Therese",
+                    "greekTitle": "Φρούριο Κούλες",
+                    "greekText" : "Το ενετικό φρούριο Κούλες ή Rocca a Mare (=Φρούριο στη Θάλασσα) δεσπόζει στην είσοδο του λιμανιού και αποτελεί σύμβολο του Ηρακλείου. Στο εσωτερικό του  υπάρχει εκθεσιακός χώρος με πλούσιο φωτογραφικό υλικό της πόλης και εκθέματα από το ναυάγιο του γαλλικού πλοίου, La Therese"
+                    ,"coordinates" : "35.34450,25.13687",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "koules_1",
+                    "addressG" : "Ενετικός λιμένας, είσοδος από την πλατεία 18 Άγγλων",
+                    "addressE" : "Venetian harbor, entrance from 18 Englishman square",
+                    "contact" : "2819243559",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Τιμή εισιτηρίου: 4 €, Μειωμένο 2 €",
+                    "EntryE" : "Ticket price: 4 €, Reduced 2 €"
+
+                },
+                {
+                    "key" : "coastRoute3",
+                    "englishTitle" : "Chucrch of ST. Peter ",
+                    "englishText" : "Τhe church of St. Peter, which during the Venetian period was the historical catholicon of the monastery of the Dominican order (Domenicani Predicatori), while during the period of Ottoman rule, was converted into a Muslim mosque. Currently, the temple is an archaeological site that can be visited by the public.",
+                    "greekTitle": "Ναός Αγίου Πέτρου",
+                    "greekText" : "Ο ναός του Αγίου Πέτρου ήταν την περίοδο της Ενετοκρατίας το ιστορικό καθολικό της μονής του τάγματος των Δομινικανών (Domenicani Predicatori), ενώ την περίοδο της οθωμανικής κυριαρχίας μετατράπηκε σε μουσουλμανικό τέμενος. Σήμερα, αποτελεί επισκέψιμο αρχαιολογικό χώρο για το κοινό."
+                    ,"coordinates" : "35.34260,25.13180",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",
+                    "mainSprite" : "naos_agiou_petrou_1",
+                    "addressG" : "Οδός Μητσοτάκη, 712 02",
+                    "addressE" : "Mitsotakis Street 712 02",
+                    "contact" : "",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },               
+                {
+                    "key" : "coastRoute4",
+                    "englishTitle" : "Hitorical Museum ",
+                    "englishText" : "Starting from early Christian times, the Historical Museum of Crete presents the turbulent history of the large Mediterranean island up until the mid-20th century. The periodical exhibitions cover a wide range, from Byzantine to modern art, highlighting leading literary figures of Greece, such as Elytis and Kazantzakis, and the presentation of major historical events from the end of the 19th century to the Second World War.",
+                    "greekTitle": "Ιστoρικό μουσείο Κρήτης",
+                    "greekText" : "Με αφετηρία τους πρώτους χριστιανικούς χρόνους το Ιστορικό Μουσείο Κρήτης παρουσιάζει στους επισκέπτες του την πολυτάραχη ιστορία και την τέχνη του μεγάλου μεσογειακού νησιού ως τα μέσα του 20ού  αιώνα. Οι περιοδικές εκθέσεις κινούνται σε ένα ευρύ φάσμα, από τη Βυζαντινή ως τη σύγχρονη τέχνη, την ανάδειξη κορυφαίων λογοτεχνικών μορφών της Ελλάδας, όπως ο Ελύτης κι ο Καζαντζάκης, και την παρουσίαση μεγάλων ιστορικών γεγονότων από το τέλος του 19ου αιώνα μέχρι και τον Β΄ Παγκόσμιο Πόλεμο."
+                    ,"coordinates" : "35.34170,25.13070",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",
+                    "mainSprite" : "imk_1",
+                    "addressG" : "Σοφοκλή Βενιζέλου 27 / Λυσιμάχου Καλοκαιρινού 771202 Ηράκλειο, Κρήτη",
+                    "addressE" : "Sofokli Venizelou 27 / Lisimahou Kalokairinou 7, 712 02 Heraklion, Crete",
+                    "contact" : "2810 283219, 2810 288708",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ολόκληρο: 7.5€, Μειωμένο: Μαθητές, Φοιτητές και άτομα άνω των 65 ετών (με επίδειξη κάρτας): 4,5 €. Ελεύθερη είσοδος: Παιδιά έως 12 ετών, άνεργοι (με επίδειξη κάρτας), φοιτητές του Πανεπιστημίου Κρήτης, του Πολυτεχνείου Κρήτης, του Ελληνικού Μεσογειακού Πανεπιστημίου και της Ορθόδοξης Ακαδημίας Κρήτης",
+                    "EntryE" : "Whole: €7.5, Reduced: Students, Senior citizens (with ID): €4.5. Free entrance: Children up to 12 years old, unemployed (with ID), students of the University of Crete, the Polytechnic School of Crete, the Hellenic Mediterranean University, and the Orthodox Academy of Crete"
+                },                
+                {
+                    "key" : "coastRoute5",
+                    "englishTitle" : "Dermatas Gate",
+                    "englishText" : "Dermatas Gate leads to the sandy bay of Dermatas and takes its name from the neighboring tanneries of the past. The gate was built between 1590-1595 at a minimal cost, as for its construction the Venetians used stones from demolished houses and villagers who performed forced labor.",
+                    "greekTitle": "Πύλη Δερματά",
+                    "greekText" : "H πύλη Δερματά οδηγεί στον αμμώδη κόλπο του Δερματά και πήρε το όνομά της από τα γειτονικά δερματάδικα του παρελθόντος. Χτίστηκε το διάστημα 1590-1595 και είχε ελάχιστο κόστος, αφού οι Βενετοί χρησιμοποίησαν για την κατασκευή της πέτρες από κατεδαφισμένα σπίτια και χωρικούς που εκτελούσαν καταναγκαστική εργασία. "
+                    ,"coordinates" : "35.34093,25.12880",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "pili_dermata_3",
+                    "addressG" : "Γοργολαΐνη 35, Ηράκλειο 712 02",
+                    "addressE" : "Gorgolaini 35, Heraklion 712 02",
+                    "contact" : "281 028 8484",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                    
+                },                
+                {
+                    "key" : "coastRoute6",
+                    "englishTitle" : "Priuli fountain",
+                    "englishText" : "Priuli fountain was built in 1666 by Superintendent General (Provveditore Generale) Antonio Priuli and is decorated with columns with Corinthian capitals. In the middle of the fountain there is a Turkish inscription that mentions the name of the pasha who managed to bring water to the fountain again.",
+                    "greekTitle": "Κρήνη Πριούλι",
+                    "greekText" : "Η κρήνη Πριούλι κατασκευάστηκε το 1666 από τον γενικό προβλεπτή Antonio Priuli και διακοσμείται από κίονες με κιονόκρανα κορινθιακού τύπου. Στη μέση της κρήνης υπάρχει τούρκικη επιγραφή στην οποία αναφέρεται το όνομα του πασά που κατόρθωσε να φέρει ξανά νερό στη βρύση."
+                    ,"coordinates" : "35.34030,25.12900",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "krini_priouli_1",
+                    "addressG" : "Δελημάρκου, Ηράκλειο 712 02",
+                    "addressE" : "Delimarkou, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                    
+                },                
+                {
+                    "key" : "coastRoute7",
+                    "englishTitle" : "Natural History Museum ",
+                    "englishText" : "The Natural History Museum hosts interactive 3D exhibits and tour exhibition spaces, and highlights the natural environment of the eastern Mediterranean in an impressive and innovative way. See representations with stuffed animals, an exhibition of live reptiles and amphibians, an earthquake simulator, the Stavros Niarchos Discovery Center, the Information Center NATURA 2000 Hall, and an exhibition area full of optical illusions!",
+                    "greekTitle": "Μουσείο Φυσικής Ιστορίας ",
+                    "greekText" : "To Μουσείο Φυσικής Ιστορίας Ηρακλείου φιλοξενεί πρωτότυπα και διαδραστικά εκθέματα και αναδεικνύει με εντυπωσιακό και καινοτόμο τρόπο το φυσικό περιβάλλον της ανατολικής Μεσογείου. Θα δείτε αναπαραστάσεις ταριχευμένων ζώων, έκθεση ζωντανών ερπετών και αμφιβίων, προσομοιωτή σεισμών, τον «Ερευνότοπο–Σταύρος Νιάρχος», το Κέντρο Πληροφόρησης «ΑΙΘΟΥΣΑ NATURA 2000», καθώς και μία έκθεση γεμάτη με οφθαλμαπάτες!"
+                    ,"coordinates" : "35.34200,25.12650",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",
+                    "mainSprite" : "mfik_1",
+                    "addressG" : "Λεωφόρος Σοφοκλή Βενιζέλου (Κόλπος Δερματά)",
+                    "addressE" : "Sofokli Venizelou Avenue (Dermatas Bay)",
+                    "contact" : "2810 393630 - 2810 282740 ",
+                    "openTime": "Καθημερινές: 09:00 - 15:00, Σαββατοκυριακα: 10:00 - 18:00",
+                    "openTimeEng" : "Monday - Friday 09:00 - 15:00, Weekends 10:00 - 18:00",
+                    "EntryG" :"Γενική είσοδος: 7,5 €, Μειωμένο: 4,5 €",
+                    "EntryE" : "General Ticket 7,5 €, Reducted: 4,5 €"
+                },               
+                {
+                    "key" : "coastRoute8",
+                    "englishTitle" : "Playground-Efodos Street",
+                    "englishText" : "In the moat of the Venetian walls, on Efodou Street, an open-air multipurpose space for all ages has been created. In particular, there is one of the largest skate parks in Greece that children and teenagers can enjoy, a calisthenics park with several exercise equipment, as well as a playground with impressive games for children of all ages.",
+                    "greekTitle": "Παιδική χαρά-Οδός Εφόδου",
+                    "greekText" : "Στην τάφρο των ενετικών τειχών, στην οδό Εφόδου έχει διαμορφωθεί ένας υπαίθριος πολυχώρος για όλες τις ηλικίες. Συγκεκριμένα, υπάρχει ένα από τα μεγαλύτερα skate parks της Ελλάδας που μπορούν να χαρούν παιδιά και έφηβοι, πάρκο καλλισθενικής γυμναστικής με αρκετά όργανα, καθώς και παιδική χαρά με εντυπωσιακά παιχνίδια για παιδιά όλων των ηλικιών."
+                    ,"coordinates" : "35.33800,25.12260",
+                    "filterEng" : "Playground",
+                    "filterGreek": "Παιδική_χαρά",
+                    "mainSprite" : "efodou_playgorund_1",
+                    "addressG" : "Οδός Εφόδου, 713 03",
+                    "addressE" : "Efodou Street, 713 03",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                }
+            ]
+        },       
+        
+        {
+            "key" : "VenetianWallsRoute", 
+            "greekTitle" : "Διαδρομή Ενετικών Τειχών",
+            "englishTitle" : "Venetian Walls Route",
+            "greekText": "Ακολουθήστε τη διαδρομή των Ενετικών Τειχών που ξεκινά από τον Προμαχώνα Σαμπιονάρα και καταλήγει στον Προμαχώνα-Πύλη του Αγίου Ανδρέα. Aπολαύσετε τον περίπατό σας κατά μήκος του φρουριακού περίβολου του Χάνδακα, που περικλείει την παλιά πόλη του Ηρακλείου και αποτελεί έργο αξιοθαύμαστο τόσο για την έμπνευση όσο και για τον σχεδιασμό του. Στη διαδρομή σας θα συναντήσετε τις τέσσερις πύλες και τους επτά προμαχώνες που αποτελούν χαρακτηριστικό στοιχείο του οχυρωματικού σχεδιασμού. Απολαύστε την πιο όμορφη βόλτα περιμετρικά της πόλης, θαυμάστε τη μοναδική θέα στο κρητικό πέλαγος, ξεκουραστείτε στα παγκάκια που θα συναντήσετε και αφεθείτε σ’ ένα μακρινό ταξίδι στο παρελθόν!", 
+            "englishText": "Follow the route of the Venetian Walls that starts from Sabbionara Bastion and ends at the Bastion-Gate of St. Andreas. Enjoy your walk along the fortress precinct of Chandakas, which encloses the old city of Heraklion and is an admirable work for both its inspiration and design. On your way, you will come across the four gates and the seven bastions, which are a characteristic element of the fortification design. Enjoy the most beautiful walk around the city, admire the unique view of the Cretan sea, rest on the benches you will find and indulge in a distant journey into the past!",
+
+            "wallRoute" : 
+            [
+                {
+                    "key" : "wallRoute1",
+                    "englishTitle" : "Bastion-Sabbionarra gate",
+                    "englishText" : "The Sabbionara or Sabbionare bastion (bastion of the sand) was originally called Little Martinengo (Martinengo Piccolo) in honor of Gerolamo Martinengo (1548). It is from this particular bastion as well as the bastion of St. Andreas that the Turkish raid took place (1669) after the betrayal of Andreas Barozzi, who pointed out the weakest points of the fortress.",
+                    "greekTitle" : "Προμαχώνας και Πύλη Σαμπιονάρα",
+                    "greekText" : "Ο προμαχώνας Sabbionara ή Sabbionera (της Άμμου), είχε αρχικά ονομαστεί Μικρός Μαρτινένγκο (Martinengo Picolo) προς τιμήν του Gerolamo Martinengo (1548). Από τον συγκεκριμένο προμαχώνα και τον προμαχώνα του Αγίου Ανδρέα έγινε η έφοδος των Τούρκων (1669) μετά από την προδοσία του Ανδρέα Μπαρότσι, ο οποίος υπέδειξε τα ασθενέστερα σημεία του φρουρίου."
+                    ,"coordinates" : "35.34070,25.13905",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Επιμενίδου, Ηράκλειο 712 02",
+                    "addressE" : "Epimenidou, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "wallRoute2",
+                    "englishTitle" : "Archaelogical museum",
+                    "englishText" : "Τhe Archaeological Museum of Heraklion hosts archaeological findings from all over Crete, covering the history of the island for more than 5500 years. A dominant position is occupied by the treasures of the Minoan culture, such as the snake goddesses, the bull's head rhyton, the Phaistos Disc, the Ring of Minos, etc.",
+                    "greekTitle" : "Αρχαιολογικό μουσείο",
+                    "greekText" : "Το Αρχαιολογικό Μουσείο Ηρακλείου φιλοξενεί αρχαιολογικά ευρήματα απ’ όλη την Κρήτη, καλύπτοντας την ιστορία του νησιού για περισσότερο από 5500 χρόνια. Κυρίαρχη θέση κατέχουν οι θησαυροί του μινωικού πολιτισμού, όπως οι θεές των Όφεων, το ρυτό της ταυροκεφαλής, ο Δίσκος της Φαιστού, το Δακτυλίδι του Μίνωα κ.α."
+                    ,"coordinates" : "35.33904,25.13728",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Ξανθουδίδη και, Χατζηδάκη 1, Ηράκλειο 712 02",
+                    "addressE" : "Xanthoudidi and Chatzidakis 1, Herkalion 712 02",
+                    "contact" : "281 027 9000",
+                    "openTime": "Δευτέρα και Τετάρτη ως Κυριακή , 08:30- 15:30, Τρίτη 10:00-17:00",
+                    "openTimeEng" : "Monday and Wednesday - Sunday , 08:30- 15:30, Tuesday 10:00-17:00",
+                    "EntryG" :"ΓΕΝΙΚΗ ΕΙΣΟΔΟΣ: 12 € ",
+                    "EntryE" : "General Ticket: 12 €"
+                },
+                {
+                    "key" : "wallRoute3",
+                    "englishTitle" : "Eleftherias Square",
+                    "englishText" : "During the Venetian period, the square was used for the training of the mercenary army. Later, when the Gate of St. Georgios was built, it was renamed St. Georgios Square, while in 1628 a water bridge supported by three arches was built, as part of the city's water supply infrestructure, giving the square the name Tris Kamares (=Three Arches). Currently, the square is buzzing with life at all hours of the day and night. You can enjoy your coffee in the cafes located around it, while young people engaging in activities, such as skateboarding. A variety of events and exhibitions are organized at Eleftherias Square and during the Christmas season it turns into a small Christmas village.",
+                    "greekTitle" : "Πλατεία Ελευθερίας",
+                    "greekText" : "Η πλατεία χρησίμευε την περίοδο της Ενετοκρατίας για την άσκηση του μισθοφορικού στρατού. Αργότερα, όταν χτίστηκε η πύλη του Αγ. Γεωργίου μετονομάστηκε σε πλατεία Αγίου Γεωργίου, ενώ το 1628 στο πλαίσιο υδροδότησης της πόλης, κατασκευάστηκε μία υδατογέφυρα στηριζόμενη σε τρία τόξα, δίνοντας το όνομα Τρεις Καμάρες. Σήμερα, η πλατεία σφύζει από ζωή όλες τις ώρες της μέρας. Μπορείτε να απολαύσετε τον καφέ σας, παρατηρώντας τους νέους που επιδίδονται σε δραστηριότητες, όπως το skateboard. Στην πλατεία διοργανώνονται εκδηλώσεις, εκθέσεις, ενώ τα  Χριστούγεννα μετατρέπεται σε ένα μικρό χριστουγεννιάτικο χωριό."
+                    ,"coordinates" : "35.33768,25.13647",
+                    "filterEng" : "Park",
+                    "filterGreek": "Πλατεία",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Πλατεία Ελεθερίας",
+                    "addressE" : "Eleftherias Square",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "wallRoute4",
+                    "englishTitle" : "Jesus Gate and bastion",
+                    "englishText" : "Jesus Gate took its name from the small church of Jesus Christ that stood nearby. The gate, a work by Michele Sanmicheli, is one of the finest samples of Renaissance architecture in the city. Currently, its interior has been transformed into an exhibition space dedicated to the great Cretan writer, Nikos Kazantzakis. ",
+                    "greekTitle" : "Πύλη και Προμαχώνας Ιησού",
+                    "greekText" : "Η πύλη Ιησού πήρε το όνομά του από τη μικρή εκκλησία του Ιησού Χριστού που βρισκόταν κοντά. Η πύλη, έργο του Μικέλε Σανμικέλι, αποτελεί ένα από τα ωραιότερα δείγματα αναγεννησιακής αρχιτεκτονικής της πόλης. Σήμερα, το εσωτερικό της έχει διαμορφωθεί σε εκθεσιακό χώρο αφιερωμένο στον μεγάλο Κρητικό συγγραφέα, Νίκο Καζαντζάκη. "
+                    ,"coordinates" : "35.33430,25.13446",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Έβανς 12, Ηράκλειο 712 01",
+                    "addressE" : "Evans 12, Heraklion 712 01",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "wallRoute5",
+                    "englishTitle" : "Bastion Martinengo",
+                    "englishText" : "The triangle shaped Martinengo bastion is located exactly in the middle of the Venetian fortification. On the top of it, there is the tomb of the great Cretan writer, Nikos Kazantzakis (1883-1957), bearing a wooden cross and the well-known inscription: “I hope for nothing, I fear nothing, I am free”.",
+                    "greekTitle" : "Προμαχώνας Μαρτινένγκο",
+                    "greekText" : "O προμαχώνας Μαρτινέγκο έχει σχήμα τριγώνου και βρίσκεται ακριβώς στη μέση της ενετικής οχύρωσης. Στην κορυφή του βρίσκεται ο τάφος του μεγάλου Κρητικού συγγραφέα, Νίκου Καζαντζάκη (1883-1957) και φέρει έναν ξύλινο σταυρό και τη γνωστή επιγραφή: «Δεν ελπίζω τίποτα. Δε φοβάμαι τίποτα. Είμαι λέφτερος.»"
+                    ,"coordinates" : "35.33217,25.12965",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Ενετικά Τείχη, Ηράκλειο 713 05",
+                    "addressE" : "Venetian Walls, Heraklion 713 03",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                             
+                {
+                    "key" : "wallRoute6",
+                    "englishTitle" : "Playgorund “Martinengo”",
+                    "englishText" : "In the moat of the Venetian walls, near Kommeno Bedeni, an open-air playground has been set up with impressive games suitable for toddlers, preschoolers, schoolchildren and teenagers. In fact, it is worth noting that several games are also accessible to people with disabilities.",
+                    "greekTitle" : "Παιδική χαρά «Μαρτινένγκο»",
+                    "greekText" : "Στην τάφρο των ενετικών τειχών, κοντά στο Κομμένο Μπεντένι έχει διαμορφωθεί μία υπαίθρια παιδική χαρά με εντυπωσιακά παιχνίδια κατάλληλα για νήπια, παιδιά προσχολικής, σχολικής και εφηβικής ηλικίας. Μάλιστα, αξίζει να σημειωθεί ότι αρκετά παιχνίδια είναι προσβάσιμα και σε ΑμεΑ."
+                    ,"coordinates" : "35.33282,25.12903",
+                    "filterEng" : "Playground",
+                    "filterGreek": "Παιδική_χαρά",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Ενετικά Τείχη, Ηράκλειο 713 05",
+                    "addressE" : "Venetian Walls, Heraklion 713 03",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "wallRoute7",
+                    "englishTitle" : "Eleftherias stadium",
+                    "englishText" : "Eleftherias Stadium, located in the Venetian trench, between the bastions of Pantokrator and Bethlehem. During the period of the Cretan State (1898-1913), the British  used the trench of the Venetian walls known as Hendekia for the creation of sports facilities. Nowadays, Eleftherias Stadium remains one of the most important spaces in the city for sports and the promotion of athletics.",
+                    "greekTitle": "Στάδιο Ελευθερίας",
+                    "greekText" : "Το στάδιο Ελευθερίας βρίσκεται στην ενετική τάφρο, ανάμεσα στους προμαχώνες του Παντοκράτορα και της Βηθλεέμ. Την περίοδο της Κρητικής Πολιτείας (1898–1913), οι Βρετανοί αξιοποίησαν την τάφρο, γνωστή και ως «Χεντέκια», για τη δημιουργία χώρων άθλησης. Σήμερα, το Στάδιο Ελευθερίας παραμένει ένας από τους σημαντικότερους χώρους προώθησης του κλασικού αθλητισμού."
+                    ,"coordinates" : "35.33575,25.12574",
+                    "filterEng" : "Recreation_ground",
+                    "filterGreek": "Χώρος_άθλησης",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Πυράνθου 9, Ηράκλειο 713 05",
+                    "addressE" : "Piranthou 9, Heraklion 713 05",
+                    "contact" : "281 025 0788",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"",
+                    "EntryE" : ""
+                },
+                {
+                    "key": "wallRoute8",
+                    "englishTitle" : "Chanioporta ",
+                    "englishText" : "Τhe Pantokrator Bastion and the homonymous gate, popularly known as Chanioporta, was the city exit to western Crete. In the upper part of the gate the relief figure of Pantokrator with the Latin inscription OMNIPOTENS (=Pantokrator), as well as the corresponding inscription in Greek on the outer side of the gate. ",
+                    "greekTitle" : "Χανιώπορτα", 
+                    "greekText" : "Ο προμαχώνας του Παντοκράτορα και η ομώνυμη πύλη, ευρέως γνωστή και ως Χανιώπορτα, αποτελούσε την έξοδο προς τη δυτική Κρήτη. Στο πάνω μέρος της πύλης  βρίσκεται η ανάγλυφη μορφή του Παντοκράτορα με τη λατινική επιγραφή OMNIPOTENS (=Παντοκράτορας), ενώ στην εξωτερική πλευρά της πύλης  υπάρχει η αντίστοιχη επιγραφή στα  ελληνικά. "
+                    ,"coordinates" : "35.33704,25.12475",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "Αρχιεπισκόπου Μακαρίου, Ενετικά Τείχη, Ηράκλειο 712 02",
+                    "addressE" : "Archiepiskopou Makariou, Venetian Walls, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key": "wallRoute9",
+                    "englishTitle" : "Playground-Efodos Street",
+                    "englishText" : "In the moat of the Venetian walls, on Efodou Street, an open-air multipurpose space for all ages has been created. In particular, there is one of the largest skate parks in Greece that children and teenagers can enjoy, a calisthenics park with several exercise equipment, as well as a playground with impressive games for children of all ages.",
+                    "greekTitle": "Παιδική χαρά-Οδός Εφόδου",
+                    "greekText" : "Στην τάφρο των ενετικών τειχών, στην οδό Εφόδου έχει διαμορφωθεί ένας υπαίθριος πολυχώρος για όλες τις ηλικίες. Συγκεκριμένα, υπάρχει ένα από τα μεγαλύτερα skate parks της Ελλάδας που μπορούν να χαρούν παιδιά και έφηβοι, πάρκο καλλισθενικής γυμναστικής με αρκετά όργανα, καθώς και παιδική χαρά με εντυπωσιακά παιχνίδια για παιδιά όλων των ηλικιών. "
+                    ,"coordinates" : "35.33807,25.12265",
+                    "filterEng" : "Playground",
+                    "filterGreek": "Παιδική_χαρά",
+                    "mainSprite" : "Sambionara_1",                    
+                    "addressG" : "¨Οδός Εφόδου, 713 03",
+                    "addressE" : "Efodou Street, 713 03",
+                    "contact" : "2810243559",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                }
+            ]
+        },
+        
+        {
+            "key" : "VenetianGatesRoute", 
+            "greekTitle" : "Διαδρομή Ενετικών Πυλών",
+            "englishTitle" : "Venetian Gates Route",
+            "greekText": "Ακολουθήστε τη Διαδρομή των Ενετικών Πυλών που ξεκινά από τα Ενετικά Νεώρια και καταλήγει στο Μουσείο Φυσικής Ιστορίας. Aαπολαύσετε τον περίπατό σας περνώντας από τα πιο πολυσύχναστα σημεία της πόλης του Ηρακλείου. Ανακαλύψτε τις παλιές γειτονιές της πόλης, περπατήστε στην κεντρική αγορά, όπου θα βρείτε κάθε λογής προϊόντα, αναμειχθείτε με τους ντόπιους και δείτε από κοντά σύγχρονες πτυχές της καθημερινής τους ζωής!", 
+            "englishText": "Follow the route of the Venetian Gates that starts from the Venetian shipyards and ends at the Natural History Museum. Enjoy your walk through the busiest part of the city of Heraklion. Discover the old neighborhoods of the city. Walk to the Central Market, where you will find all kinds of products, mix with the locals and see up close the aspects of their daily lifestyle.",
+
+            "gateRoute" : 
+            [
+                {
+                    "key" : "gateRoute1",
+                    "englishTitle" : "Shipyards",
+                    "englishText" : "Opposite the Venetian harbor, are the Venetian Shipyards (Neoria), domed elongated structures. In their attempt to make the port of the city more secure, the Venetians built walls to protect it, and shipyards where ships were built and repaired. ",
+                    "greekTitle" : "Νεώρια",
+                    "greekText" : "Απέναντι από το ενετικό λιμάνι βρίσκονται τα Νεώρια, δηλαδή θολοσκεπείς επιμήκεις κατασκευές. Οι Βενετοί στην προσπάθειά τους να κάνουν το λιμάνι της πόλης πιο ασφαλές, έχτισαν τείχη για την προστασία του και νεώρια, όπου ναυπηγούσαν και επισκεύαζαν τα πλοία. "
+                    ,"coordinates" : "35.342178,25.13700",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Λεωφόρος Νεωρίων",
+                    "addressE" : "Neoria Avenue",
+                    "contact" : "2810243559",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "gateRoute2",
+                    "englishTitle" : "Eleftherias Square",
+                    "englishText" : "During the Venetian period, the square was used for the training of the mercenary army. Later, when the Gate of St. Georgios was built, it was renamed St. Georgios Square, while in 1628 a water bridge supported by three arches was built, as part of the city's water supply infrestructure, giving the square the name Tris Kamares (=Three Arches). Currently, the square is buzzing with life at all hours of the day and night. You can enjoy your coffee in the cafes located around it, while young people engaging in activities, such as skateboarding. A variety of events and exhibitions are organized at Eleftherias Square and during the Christmas season it turns into a small Christmas village.",
+                    "greekTitle" : "Πλατεία Ελευθερίας",
+                    "greekText" : "Η πλατεία χρησίμευε την περίοδο της Ενετοκρατίας για την άσκηση του μισθοφορικού στρατού. Αργότερα, όταν χτίστηκε η πύλη του Αγ. Γεωργίου μετονομάστηκε σε πλατεία Αγίου Γεωργίου, ενώ το 1628 στο πλαίσιο υδροδότησης της πόλης, κατασκευάστηκε μία υδατογέφυρα στηριζόμενη σε τρία τόξα, δίνοντας το όνομα Τρεις Καμάρες. Σήμερα, η πλατεία σφύζει από ζωή όλες τις ώρες της μέρας. Μπορείτε να απολαύσετε τον καφέ σας, παρατηρώντας τους νέους που επιδίδονται σε δραστηριότητες, όπως το skateboard. Στην πλατεία διοργανώνονται εκδηλώσεις, εκθέσεις, ενώ τα  Χριστούγεννα μετατρέπεται σε ένα μικρό χριστουγεννιάτικο χωριό."
+                    ,"coordinates" : "35.33768,25.13647",
+                    "filterEng" : "Park",
+                    "filterGreek": "Πλατεία",                    
+                    "addressG" : "Πλατεία Ελεθερίας",
+                    "addressE" : "Eleftherias Square",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "gateRoute3",
+                    "englishTitle" : "Market",
+                    "englishText" : "Walk to the open Central Market on 1866 Street, which is located in the heart of the city and was named after the date of one of the most important revolutions of Crete. Visit shops with tourist goods, fruits, vegetables, herbs, spices and cheese. You will also find butchers, bakeries, coffee shops and the bustling traditional fish market, where you can hear the traders touting the quality and freshness of their products.",
+                    "greekTitle" : "Κεντρική αγορά",
+                    "greekText" : "Περπατήστε στην ανοικτή κεντρική αγορά που βρίσκεται  στην καρδιά  της πόλης, και πήρε το όνομά της με αφορμή μία από τις σημαντικότερες επαναστάσεις της Κρήτης. Επισκεφτείτε καταστήματα με τουριστικά είδη, φρούτα, λαχανικά, βότανα, μπαχαρικά και τυροκομικά. Επίσης, θα συναντήσετε κρεοπωλεία, φούρνους, καφεκοπτεία και την παραδοσιακή πολύβουη ιχθυαγορά, ακούγοντας τους ιδιοκτήτες να διαλαλούν την ποιότητα και τη φρεσκάδα των προϊόντων τους. "
+                    ,"coordinates" : "35.33843,25.13321",
+                    "filterEng" : "Shopping_street",
+                    "filterGreek": "Εμπορικός_δρόμος",                    
+                    "addressG" : "Οδός 1866, Ηράκλειο 712 01",
+                    "addressE" : "1866 Street, Heraklion 71201",
+                    "contact" : "",
+                    "openTime": "Δευτέρα- Σάββατο 09:00-14:00",
+                    "openTimeEng" : "Monday -Saturday 09:00-14:00",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "gateRoute4",
+                    "englishTitle" : "Bembo fountain and Turkish Sebil",
+                    "englishText" : "The Sebili of Haji Ibrahim built in 1776, aiming to transport snow from Psiloritis, so that the passers-by could be offered cool water even during the summer months. Next to Sebil, the ornate Bembo fountain is preserved in good condition.It is named after the governor ordering its construction, Gianmatteo Bembo, who was the first to bring running drinking water to the city of Heraklion. ",
+                    "greekTitle" : "Κρήνη Μπέμπο και Τουρκικό Σεμπίλ",
+                    "greekText" : "Το σεμπίλi του Χατζή Ιμπραήμ κατασκευάστηκε το 1776 με στόχο να προσφέρεται στους διαβάτες δροσερό νερό κατά τους καλοκαιρινούς μήνες. Δίπλα στο σεμπίλ σώζεται σε καλή κατάσταση η περίτεχνη Κρήνη Μπέμπο, που πήρε το όνομά της από τον κατασκευαστή της, Τζιανματέο Μπέμπο, ο οποίος ήταν ο πρώτος που μετέφερε πόσιμο νερό στην πόλη του Ηρακλείου. "
+                    ,"coordinates" : "35.33651,25.13361",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Πλ. Κορνάρου 2, Ηράκλειο 712 01",
+                    "addressE" : "Kornarou square 2, Heraklion 71201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "gateRoute5",
+                    "englishTitle" : "Kornarou Square",
+                    "englishText" : "Kornarou Square or 'Valide Mosque' which owes its name to the great Cretan poet, Vitsentzos Kornaros. During the Venetian period, the imposing Church of the Savior (San Salvatore) was there, which during the dictatorship (1967-1974), was demolished. Nowadays, a fountain has been built in the Square and a bronze sculpture representing the equestrian Erotokritos saying goodbye to his beloved, Aretousa.",
+                    "greekTitle" : "Πλατεία Κορνάρου",
+                    "greekText" : "Η Πλατεία Κορνάρου ή «Βαλιδέ Τζαμί» οφείλει το όνομά της στον σπουδαίο Κρητικό ποιητή, Βιτσέντζο Κορνάρο. Την περίοδο της Ενετοκρατίας εκεί βρισκόταν ο Ναός του Σωτήρος (San Salvatore), ο οποίος κατεδαφίστηκε την περίοδο της δικτατορίας. Σήμερα, στην πλατεία έχει κατασκευαστεί ένα σιντριβάνι και ένα χάλκινο γλυπτό που αναπαριστά τον έφιππο Ερωτόκριτο να αποχαιρετά την αγαπημένη του, Αρετούσα."
+                    ,"coordinates" : "35.336240558848296, 25.133812530431907",
+                    "filterEng" : "Park",
+                    "filterGreek": "Πλατεία",                    
+                    "addressG" : "Πλατεία Κορνάρου, Ηράκλειο 712 01",
+                    "addressE" : "Kornarou square, Heraklion 71201",
+                    "contact" : "2810243559",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                          
+                {
+                    "key" : "gateRoute6",
+                    "englishTitle" : "Jesus Gate and bastion",
+                    "englishText" : "Jesus Gate took its name from the small church of Jesus Christ that stood nearby. The gate, a work by Michele Sanmicheli, is one of the finest samples of Renaissance architecture in the city. Currently, its interior has been transformed into an exhibition space dedicated to the great Cretan writer, Nikos Kazantzakis.",
+                    "greekTitle" : "Πύλη και Προμαχώνας Ιησού",
+                    "greekText" : "Η πύλη Ιησού πήρε το όνομά του από τη μικρή εκκλησία του Ιησού Χριστού που βρισκόταν κοντά. Η πύλη, έργο του Μικέλε Σανμικέλι, αποτελεί ένα από τα ωραιότερα δείγματα αναγεννησιακής αρχιτεκτονικής της πόλης. Σήμερα, το εσωτερικό της έχει διαμορφωθεί σε εκθεσιακό χώρο αφιερωμένο στον μεγάλο Κρητικό συγγραφέα, Νίκο Καζαντζάκη."
+                    ,"coordinates" : "35.33430,25.13446",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Έβανς 12, Ηράκλειο 712 01",
+                    "addressE" : "Evans 12, Heraklion 712 01",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "gateRoute7",
+                    "englishTitle" : "Open theatre Manos Chatizdakis",
+                    "englishText" : "Behind the large Open Air Theatre 'Nikos Kazantzakis', in the low square of Jesus Bastion, in 1980 the 'Small Open Air Theatre' was constructed after a proposal by Manos Chatzidakis, which took the name of the great composer. Many cultural events are hosted in this space, such as concerts and theatrical performances. ",
+                    "greekTitle" : "Κηποθέατρο Μάνος Χατζιδάκις",
+                    "greekText" : "Πίσω από το Μεγάλο Κηποθέατρο «Νίκος Καζαντζάκης», στη χαμηλή πλατεία του Προμαχώνα Ιησού, διαμορφώθηκε το 1980 ύστερα από πρόταση του Μάνου Χατζιδάκι το «Μικρό Κηποθέατρο», που πήρε το όνομα του μεγάλου συνθέτη. Στον χώρο φιλοξενούνται πλήθος πολιτιστικών εκδηλώσεων, όπως συναυλίες και θεατρικές παραστάσεις. "
+                    ,"coordinates" : "35.33322,25.13340",
+                    "filterEng" : "Cultural_facility",
+                    "filterGreek": "Χώρος_πολιτισμού",                    
+                    "addressG" : "Λεωφ. Νικολαου Πλαστήρα 26",
+                    "addressE" : "Nikolaou Plastira avenue 26",
+                    "contact" : "281 039 9211",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"",
+                    "EntryE" : ""
+                },   
+                {
+                    "key" : "gateRoute8",
+                    "englishTitle" : "Bastion Martinengo",
+                    "englishText" : "The triangle shaped Martinengo bastion is located exactly in the middle of the Venetian fortification. On the top of it, there is the tomb of the great Cretan writer, Nikos Kazantzakis (1883-1957), bearing a wooden cross and the well-known inscription: “I hope for nothing, I fear nothing, I am free”.",
+                    "greekTitle" : "Προμαχώνας Μαρτινένγκο",
+                    "greekText" : "O προμαχώνας Μαρτινέγκο έχει σχήμα τριγώνου και βρίσκεται ακριβώς στη μέση της ενετικής οχύρωσης. Στην κορυφή του βρίσκεται ο τάφος του μεγάλου Κρητικού συγγραφέα, Νίκου Καζαντζάκη (1883-1957) και φέρει έναν ξύλινο σταυρό και τη γνωστή επιγραφή: 'Δεν ελπίζω τίποτα. Δε φοβάμαι τίποτα. Είμαι λέφτερος.'"
+                    ,"coordinates" : "35.33282,25.12903",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Ενετικά Τείχη, Ηράκλειο 713 05",
+                    "addressE" : "Venetian walls, Heraklion 713 05",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },            
+                {
+                    "key" : "gateRoute9",
+                    "englishTitle" : "Playgorund “Martinengo”",
+                    "englishText" : "In the moat of the Venetian walls, near Kommeno Bedeni, an open-air playground has been set up with impressive games suitable for toddlers, preschoolers, schoolchildren and teenagers. In fact, it is worth noting that several games are also accessible to people with disabilities.",
+                    "greekTitle" : "Παιδική χαρά «Μαρτινένγκο»",
+                    "greekText" : "Στην τάφρο των ενετικών τειχών, κοντά στο Κομμένο Μπεντένι έχει διαμορφωθεί μία υπαίθρια παιδική χαρά με εντυπωσιακά παιχνίδια κατάλληλα για νήπια, παιδιά προσχολικής, σχολικής και εφηβικής ηλικίας. Μάλιστα, αξίζει να σημειωθεί ότι αρκετά παιχνίδια είναι προσβάσιμα και σε ΑμεΑ."
+                    ,"coordinates" : "35.33282,25.12903",
+                    "filterEng" : "Playground",
+                    "filterGreek": "Παιδική_χαρά",                    
+                    "addressG" : "Ενετικά Τείχη, Ηράκλειο 713 05",
+                    "addressE" : "Venetian walls, Heraklion 713 05",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+             
+                {
+                    "key" : "gateRoute10",
+                    "englishTitle" : "Chanioporta ",
+                    "englishText" : "Τhe Pantokrator Bastion and the homonymous gate, popularly known as Chanioporta, was the city exit to western Crete. In the upper part of the gate the relief figure of Pantokrator with the Latin inscription OMNIPOTENS (=Pantokrator), as well as the corresponding inscription in Greek on the outer side of the gate. ",
+                    "greekTitle" : "Χανιώπορτα",
+                    "greekText" : "Ο προμαχώνας του Παντοκράτορα και η ομώνυμη πύλη, ευρέως γνωστή και ως Χανιώπορτα, αποτελούσε την έξοδο προς τη δυτική Κρήτη. Στο πάνω μέρος της πύλης  βρίσκεται η ανάγλυφη μορφή του Παντοκράτορα με τη λατινική επιγραφή OMNIPOTENS (=Παντοκράτορας), ενώ στην εξωτερική πλευρά της πύλης  υπάρχει η αντίστοιχη επιγραφή στα  ελληνικά. "
+                    ,"coordinates" : "35.33704,25.12475",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Αρχιεπισκόπου Μακαρίου, Ενετικά Τείχη, Ηράκλειο 712 02",
+                    "addressE" : "Archiepiskopou Makariou, Venetian Walls, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },               
+                {
+                    "key" : "gateRoute11",
+                    "englishTitle" : "Church of Holy Trinity",
+                    "englishText" : "The Church of the Holy Trinity was built in a place where a Turkish mosque used to stand, and was inaugurated in 1930. During the German occupation the windows and doors were destroyed by the bombing of the occupying troops and had to be repaired. The Church celebrates on Whit Monday (Monday of the Holy Spirit), that is, 50 days after Orthodox Easter.",
+                    "greekTitle" :   "Ναός Αγίας Τριάδας",
+                    "greekText" : "O ναός της Αγίας Τριάδας χτίστηκε σε θέση, όπου παλιότερα υπήρχε τουρκικό τέμενος και εγκαινιάστηκε το 1930. Κατά τη γερμανική κατοχή τα παράθυρα και οι πόρτες καταστράφηκαν από τους βομβαρδισμούς των κατοχικών στρατευμάτων και χρειάστηκε να επισκευαστούν. Ο ναός γιορτάζει τη Δευτέρα του Αγίου Πνεύματος, δηλαδή 50 μέρες μετά το ορθόδοξο Πάσχα."
+                    ,"coordinates" : "35.34037,25.12697",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Σαμουήλ Χάου, Ηράκλειο 712 02",
+                    "addressE" : "Samouil Howe, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "gateRoute12",
+                    "englishTitle" : "Natural History Museum",
+                    "englishText" : "The Natural History Museum hosts interactive 3D exhibits and tour exhibition spaces, and highlights the natural environment of the eastern Mediterranean in an impressive and innovative way. See representations with stuffed animals, an exhibition of live reptiles and amphibians, an earthquake simulator, the Stavros Niarchos Discovery Center, the Information Center 'NATURA 2000 Hall', and an exhibition area full of optical illusions!",
+                    "greekTitle" : "Μουσείο Φυσικής Ιστορίας",
+                    "greekText" : "To Μουσείο Φυσικής Ιστορίας Ηρακλείου φιλοξενεί πρωτότυπα και διαδραστικά εκθέματα και αναδεικνύει με εντυπωσιακό και καινοτόμο τρόπο το φυσικό περιβάλλον της ανατολικής Μεσογείου. Θα δείτε αναπαραστάσεις ταριχευμένων ζώων, έκθεση ζωντανών ερπετών και αμφιβίων, προσομοιωτή σεισμών, τον «Ερευνότοπο–Σταύρος Νιάρχος», το Κέντρο Πληροφόρησης «ΑΙΘΟΥΣΑ NATURA 2000», καθώς και μία έκθεση γεμάτη με οφθαλμαπάτες!"
+                    ,"coordinates" : "35.34203,25.12650",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",                    
+                    "addressG" : "Λεωφόρος Σοφοκλή Βενιζέλου (Κόλπος Δερματά)",
+                    "addressE" : "Sofokli Venizelou Avenue (Dermatas Bay)",
+                    "contact" : "2810 393630 - 2810 282740 ",
+                    "openTime": "Καθημερινές : 09:00 - 15:00, Σαββατοκύριακα: 10:00 - 18:00",
+                    "openTimeEng" : "Monday - Friday 09:00 - 15:00, Weekends 10:00 - 18:00",
+                    "EntryG" :"Γενική είσοδος: 7,5 €, Μειωμένο: 4,5 €",
+                    "EntryE" : "General Ticket 7,5 €, Reducted: 4,5 €"
+                }
+            ]
+        },       
+        
+        {
+            "key" : "VenetianPortRoute", 
+            "greekTitle" : "Διαδρομή Ενετικού Λιμένα",
+            "englishTitle" : "Route of the Venetian Port",
+            "greekText": "Ακολουθήστε τη διαδρομή από την Πλατεία των 18 Άγγλων μέχρι τον Προμαχώνα Μαρτινέγκο. Περπατήστε σ’ έναν από τους πιο όμορφους και ιστορικούς δρόμους της πόλης, την 25η Αυγούστου, θαυμάστε τον εμβληματικό ναό του Αγίου Τίτου και δείτε τα πιο εντυπωσιακά ενετικά μνημεία του Ηρακλείου, όπως  την κρήνη Μοροζίνι, τη Βασιλική του Αγίου Μάρκου και τη Λότζια. Επισκεφτείτε τον ναό του Πολιούχου Αγίου Μηνά, που δεσπόζει στην ομώνυμη πλατεία, τον ναό της Αγίας Αικατερίνης των Σιναϊτών, σημερινό Μουσείο με συλλογή κειμηλίων της Ιεράς Αρχιεπισκοπής Κρήτης που βρίσκεται ακριβώς διπλά, αλλά και τον ιστορικό ναό του Αγίου Ματθαίου σε πολύ κοντινή απόσταση. Περιπλανηθείτε στα σοκάκια της πόλης και γνωρίστε το Ηράκλειο μιας άλλης εποχής!", 
+            "englishText": "Follow the route from the Square of the 18 Englishmen to Martinengo bastion. Walk in one of the most beautiful and historic streets of the city, on 25th August Street, admire the emblematic Church of St. Titus and see the most impressive Venetian monuments of Heraklion, such as Morosini Fountain, St. Mark Basilica and Loggia. Visit the Church of St. Minas – the city’s patron saint –, which dominates the homonymous Square, the Church of St. Catherine of Sinai that currently is a museum with a collection of relics of the Holy Archdiocese of Crete located just next to it, but also the historic church of St. Matthew in a very close distance. Wander the streets of the city and experience Heraklion of another era!",
+
+            "portRoute" : 
+            [
+                {
+                    "key" : "portRoute1",
+                    "englishTitle" : "Τhe 18 Englishmen Square",
+                    "englishText" : "Τhe 18 Englishmen Square is a small one with a long history! After the revolution in 1897, rural Muslims sought protection in Heraklion. The atmosphere is explosive, as the fury of the Muslims is directed against the Christians living in the city. After the first Christian director of customs is appointed, on 25 August 1898, the new customs officials go to take up duty and enraged Muslims attack them and the British military contingent accompanying them, killing the officials, 17 Englishmen and the British Vice-Consul, Lysimachos Kalokerinos.",
+                    "greekTitle" : "Πλατεία 18 Άγγλων",
+                    "greekText" : "Η Πλατεία 18 Άγγλων είναι μία μικρή πλατεία με μεγάλη ιστορία! Μετά την επανάσταση το 1897, οι μουσουλμάνοι της υπαίθρου αναζητούν προστασία στο Ηράκλειο. Η ατμόσφαιρα είναι εκρηκτική, καθώς η οργή των μουσουλμάνων στρέφεται εναντίον των χριστιανών που ζουν στην πόλη. Αφού διορίζεται ο πρώτος χριστιανός διευθυντής στο τελωνείο, στις 25 Αυγούστου 1898, οι νέοι υπάλληλοι πηγαίνουν να αναλάβουν υπηρεσία και εξαγριωμένοι μουσουλμάνοι επιτίθενται σ' αυτούς και στο βρετανικό στρατιωτικό τμήμα, που τους συνοδεύει, σκοτώνοντας τους υπαλλήλους, 17  Άγγλους και τον Υποπρόξενο της Βρετανίας, Λυσίμαχο Καλοκαιρινό."
+                    ,"coordinates" : "35.34285,25.13448",
+                    "filterEng" : "Park",
+                    "filterGreek": "Πλατεία",                    
+                    "addressG" : "Πλατεία 18 Άγγλων 1, 71201",
+                    "addressE" : "18 Englishmen square 1, 71201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute2",
+                    "englishTitle" : "25th August Street",
+                    "englishText" : "25th August Street is the most beautiful pedestrian street of Heraklion, which connects the Venetian harbour with the Lions' Square. Along it, there are magnificent neoclassical buildings, the church of St. Titus and the Venetian Loggia. A somewhat more interesting name that was unofficially given to it later, was 'Illusion Street', because the magnificent neoclassical buildings misled visitors coming from the port, giving them the impression of a wealthy city. The current name of the street is due to the tragic events that occurred on August 25, 1898, the feast day of Saint Titus, when the Ottomans slaughtered hundreds of Christian Cretans, 17 British soldiers and the vice-consul of England, Lysimachos Kalokerinos.",
+                    "greekTitle" : "Οδός Μαρτύρων 25ης Αυγούστου",
+                    "greekText" : "H 25ης Αυγούστου είναι ο ομορφότερος πεζόδρομος της πόλης του Ηρακλείου που συνδέει το ενετικό λιμάνι με την πλατεία των λιονταριών. Κατά μήκος του βρίσκονται υπέροχα νεοκλασικά κτίρια, ο ναός του Αγίου Τίτου και η Ενετική Λότζια. Μία ιδιαίτερα ενδιαφέρουσα ονομασία του δρόμου ήταν «Οδός Πλάνης», διότι τα υπέροχα νεοκλασικά παραπλανούσαν τους επισκέπτες που έρχονταν από το λιμάνι, δίνοντάς τους την εντύπωση μίας πλούσιας πόλης. Το σημερινό όνομα της οδού οφείλεται στα τραγικά γεγονότα που συνέβησαν στις 25 Αυγούστου 1898, την ημέρα εορτής του Αγίου Τίτου, όταν οι Οθωμανοί έσφαξαν εκατοντάδες χριστιανούς Κρητικούς, 17 Άγγλους στρατιώτες και τον υποπρόξενο της Αγγλίας Λυσίμαχο Καλοκαιρινό."
+                    ,"coordinates" : "35.34152458706145, 25.134300676293893",
+                    "filterEng" : "Shopping_street",
+                    "filterGreek": "Εμπορικός_δρόμος",                    
+                    "addressG" : "Οδός 25ης Αυγούστου, 71201",
+                    "addressE" : "25th August Street, 71201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute3",
+                    "englishTitle" : "Temple of St. Titus",
+                    "englishText" : "The imposing temple of St. Titus is situated in 25th August Street and it is dedicated to St. Titus. During the second Byzantine period, it became the see of the new Orthodox Diocese of Crete. Later, the Venetians installed a Catholic archbishop and converted the church into a Catholic cathedral. Over the course of its long history the church was repeatedly destroyed by earthquakes and fires. In 1925, following the population exchange, the church came within the jurisdiction of the Church of Crete.",
+                    "greekTitle" : "Ναός Αγίου Τίτου",
+                    "greekText" : "O επιβλητικός ναός του Αγίου Τίτου βρίσκεται στην οδό 25ης Αυγούστου και είναι αφιερωμένος στον Άγιο Τίτο. Στη διάρκεια της B΄ Βυζαντινής περιόδου ο ναός του Αγίου Τίτου γίνεται η Μητρόπολη της νέας Επισκοπής της Κρήτης. Αργότερα οι Βενετοί εγκαθιστούν στον ναό Λατίνο αρχιεπίσκοπο, μετατρέποντάς τον σε Επισκοπή Λατίνων. Στη διάρκεια της μακραίωνης ιστορίας του, ο ναός καταστράφηκε επανειλημμένως από σεισμούς και πυρκαγιές. Το 1925, μετά την ανταλλαγή των πληθυσμών, ο ναός πέρασε στη δικαιοδοσία της Εκκλησίας της Κρήτης."
+                    ,"coordinates" : "35.34010,25.13471",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Πλ. Αγίου Τίτου, Ηράκλειο 712 02",
+                    "addressE" : "Agios Titos square, Heraklion 712 02",
+                    "contact" : "281 034 6221",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute4",
+                    "englishTitle" : "Loggia",
+                    "englishText" : "Loggia is an elegant Venetian building built in 1626-1628 by Francesco Morosini (the fourth building). Nobles and Lords gathered in the building and spent their free time, discussing various issues, which concerned the city. Currently, it houses Services of the Municipality of Heraklion.",
+                    "greekTitle" : "Λότζια",
+                    "greekText" : "Η Λότζια είναι ένα κομψότατο, ενετικό οικοδόμημα  που χτίστηκε το 1626-1628 από τον Φραγκίσκο Μοροζίνι (η τέταρτη κατά σειρά). Στο κτίριο συγκεντρώνονταν ευγενείς και άρχοντες και περνούσαν τον ελεύθερο χρόνο τους συζητώντας διάφορα θέματα, που απασχολούσαν την πόλη. Σήμερα, στεγάζει υπηρεσίες του Δήμου Ηρακλείου."
+                    ,"coordinates" : "35.33984,25.13404",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Οδός 25ης Αυγούστου 25, 71201",
+                    "addressE" : "25th August Street, 71201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute5",
+                    "englishTitle" : "ST. Mark Basilica",
+                    "englishText" : "The Basilica of St. Mark is a church that was built in the first years of Venetian rule (1239) and was the place where the official assumption of the duties of the rulers and officials took place. After the Turkish conquest (1669), the temple was converted into a mosque (1915). The building was renovated after 1956 and today serves as a Municipal Art Gallery.",
+                    "greekTitle" : "Βασιλική Αγίου Μάρκου",
+                    "greekText" : "Η Βασιλική του Αγίου Μάρκου είναι εκκλησία που κτίστηκε τους πρώτους ενετικούς χρόνους (1239) και αποτέλεσε τον τόπο, όπου γινόταν η επίσημη ανάληψη των καθηκόντων των αρχόντων και των αξιωματούχων. Μετά την τουρκική κατάκτηση (1669), ο ναός μετατράπηκε σε τζαμί (1915). Το κτίριο ανακαινίστηκε μετά το 1956 και σήμερα λειτουργεί ως δημοτική πινακοθήκη."
+                    ,"coordinates" : "35.33926,25.13363",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Πλατεία Λιονταριών, 71201",
+                    "addressE" : "Liontaria Square, 71 201",
+                    "contact" : "281 340 9000",
+                    "openTime": "Δευτέρα-Σάββατο 09:00-14:00",
+                    "openTimeEng" : "Monday-Saturday 09:00-14:00",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute6",
+                    "englishTitle" : "Morosini Fountain",
+                    "englishText" : "The Fontana Morosini is the best-known fountain in Heraklion, serving as a landmark for locals and visitors alike. It was constructed by Francesco Morosini in order to transport drinking water from Mount Youchtas to Heraklion. It is adorned with reliefs of scenes from mythology, marine life and coats of arms. Above the basin, there are four lions from whose mouth water flows. The fountain was originally crowned with a large statue of Poseidon, which was later destroyed, probably in an earthquake.",
+                    "greekTitle" : "Κρήνη Μοροζίνι",
+                    "greekText" : "Η Κρήνη Μοροζίνι αποτελεί σημείο αναφοράς τόσο για τους κατοίκους του Ηρακλείου όσο και για τους επισκέπτες του. Κατασκευάστηκε από τον Φραγκίσκο Μοροζίνι με σκοπό τη μεταφορά νερού από το βουνό Γιούχτας προς το Ηράκλειο και διακοσμείται με ανάγλυφες μυθολογικές παραστάσεις, θαλάσσιες μορφές και διάφορα οικόσημα. Πάνω από τη δεξαμενή υψώνονται τέσσερα λιοντάρια, από τα στόματα των οποίων ρέει νερό. Στην κορυφή της δέσποζε ένα μεγάλο άγαλμα του Ποσειδώνα, το οποίο όμως κατέρρευσε πιθανώς από σεισμό."
+                    ,"coordinates" : "35.33916,25.13317",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Πλατεία Λιονταριών, 71201",
+                    "addressE" : "Liontaria Square, 71 201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute7",
+                    "englishTitle" : "ST. Catherine of Sinai",
+                    "englishText" : "Northeast of the Metropolitan Church of St. Minas, there is the Church of Saint Catherine of Sinai. The church was founded during the second Byzantine period and was a spiritual and artistic center from 15th to the 17th century. Nowadays, the church of Saint Catherine is an exhibition hall of the Archdiocese of Crete with representative artworks of the Cretan renaissance.",
+                    "greekTitle" : "Αγία Αικατερίνη των Σιναϊτών",
+                    "greekText" : "Βορειοανατολικά του Μητροπολιτικού ναού του Αγίου Μηνά, βρίσκεται ο ναός της Σιναϊτικής μονής της Αγίας Αικατερίνης. Η εκκλησία ιδρύθηκε τη β’ βυζαντινή περίοδο και αποτέλεσε πνευματικό και καλλιτεχνικό κέντρο από τον 15ο έως τον 17ο αι. Σήμερα, ο ναός της Αγίας Αικατερίνης λειτουργεί ως εκθεσιακός χώρος της Ιεράς Αρχιεπισκοπής Κρήτης με αντιπροσωπευτικά έργα της Κρητικής Αναγέννησης."
+                    ,"coordinates" : "35.33821,25.13140",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Μονής Οδηγήτριας 1, Ηράκλειο 712 01",
+                    "addressE" : "Monis Odigitrias 1, Heraklion 712 01",
+                    "contact" : "281 033 6316",
+                    "openTime": "Δευτέρα-Σάββατο 09:00-18:00",
+                    "openTimeEng" : "Monday-Saturday 09:00-18:00",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute8",
+                    "englishTitle" : "Metropolitan church of ST. Minas",
+                    "englishText" : "Saint Minas is the patron Saint of the city of Heraklion; the cathedral is also the seat of the Archbishop of Crete. The saint’s day is celebrated on November 11 and is a public holiday. The plans were drawn up by the architect Athanasios Moussis; works for its construction began in 1862, were interrupted during the Cretan Revolution and were completed in 1895. ",
+                    "greekTitle" : "Μητροπολιτικός ναός Αγίου Μηνά",
+                    "greekText" : "Ο Άγιος Μηνάς είναι ο πολιούχος Άγιος της πόλης του Ηρακλείου και έδρα του Αρχιεπισκόπου Κρήτης. Η μνήμη του γιορτάζεται στις 11 Νοεμβρίου και αποτελεί ημέρα αργίας για την πόλη. Τα σχέδια εκπόνησε ο αρχιτέκτονας Αθανάσιος Μούσης και οι εργασίες για την ανέγερσή του ξεκίνησαν το 1862, διακόπηκαν κατά τη διάρκεια της Κρητικής Επανάστασης και ολοκληρώθηκαν το 1895. "
+                    ,"coordinates" : "35.33764,25.13100",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Ἁγίου Μηνᾶ 25, Ηράκλειο 712 01",
+                    "addressE" : "ST Minas 25, Heraklion 712 01",
+                    "contact" : "281 028 2402",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute9",
+                    "englishTitle" : "Church of St. Matthew",
+                    "englishText" : "The orthodox church of St. Matthew dates back to the second Byzantine period. During the Turkish occupation, it was granted to the Sinai monks in exchange for the Monastery of St. Catherine, which was converted into a mosque.  Nowadays, the church hosts a collection of icons with important works of the Cretan School.",
+                    "greekTitle" : "Ναός του Αγίου Ματθαίου",
+                    "greekText" : "Ο ορθόδοξος ναός του Αγίου Ματθαίου χρονολογείται ίσως στη β’  βυζαντινή περίοδο. Κατά την τουρκοκρατία παραχωρήθηκε στους Σιναΐτες καλόγερους σε αντάλλαγμα της Μονής της Αγίας Αικατερίνης που μετατράπηκε σε τζαμί. Σήμερα, ο ναός φιλοξενεί συλλογή εικόνων με σημαντικά έργα της Κρητικής Σχολής."
+                    ,"coordinates" : "35.33775,25.13053",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Ταξίαρχου Μαρκόπουλου, Ηράκλειο 712 01",
+                    "addressE" : "Taxiarchou Markopoulou, Heraklion 712 01",
+                    "contact" : "281 028 9150",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },
+                {
+                    "key" : "portRoute10",
+                    "englishTitle" : "Bastion Martinengo",
+                    "englishText" : "The triangle shaped Martinengo bastion is located exactly in the middle of the Venetian fortification. On the top of it, there is the tomb of the great Cretan writer, Nikos Kazantzakis (1883-1957), bearing a wooden cross and the well-known inscription: “I hope for nothing, I fear nothing, I am free”.",
+                    "greekTitle" : "Προμαχώνας Μαρτινένγκο",
+                    "greekText" : "O προμαχώνας Μαρτινέγκο έχει σχήμα τριγώνου και βρίσκεται ακριβώς στη μέση της ενετικής οχύρωσης. Στην κορυφή του βρίσκεται ο τάφος του μεγάλου Κρητικού συγγραφέα, Νίκου Καζαντζάκη (1883-1957) και φέρει έναν ξύλινο σταυρό και τη γνωστή επιγραφή: «Δεν ελπίζω τίποτα. Δε φοβάμαι τίποτα. Είμαι λέφτερος.»"
+                    ,"coordinates" : "35.33217,25.12965",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Ενετικά Τείχη, Ηράκλειο 713 05",
+                    "addressE" : "Venetian Walls, Heraklion 713 05",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "portRoute11",
+                    "englishTitle" : "Cultural Conference Center of Heraklion",
+                    "englishText" : "Τhe Cultural Conference Center of Heraklion is α place of excellent possibilities and infrastructure, a center of promotion as well as production of culture, that gives space to artistic expression in all the arts and cultures.",
+                    "greekTitle" : "Πολιτιστικό κέντρο Ηρακλείου",
+                    "greekText" : "Το πολιτιστικό και συνεδριακό κέντρο Ηρακλείου (ΠΣΚΗ) αποτελεί έναν χώρο εξαιρετικών δυνατοτήτων και υποδομών, ένα κέντρο προαγωγής, αλλά και  παραγωγής  πολιτισμού που δίνει βήμα καλλιτεχνικής έκφρασης σε όλες τις τέχνες και τους πολιτισμούς."
+                    ,"coordinates" : "35.33361,25.12991",
+                    "filterEng" : "Cultural_facility",
+                    "filterGreek": "Χώρος_πολιτισμού",                    
+                    "addressG" : "Λεωφ. Νικολαου Πλαστήρα 49, Ηράκλειο 712 01",
+                    "addressE" : "Nikolaou Plastira avenue 49, Heraklion 712 01",
+                    "contact" : "281 022 9618",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"",
+                    "EntryE" : ""
+                }
+            ]
+        },
+
+        {
+            "key" : "DermatasCoveRoute", 
+            "greekTitle" : "Διαδρομή Κόλπου Δερματά",
+            "englishTitle" : "Dermatas Bay Route",
+            "greekText": "Ακολουθήστε τη διαδρομή από την πύλη του Αγίου Γεωργίου μέχρι το Ιστορικό Μουσείο. Θαυμάστε κάποια από τα ενετικά μνημεία της πόλης, την κρήνη Μοροζίνι, τη Βασιλική του Αγίου Μάρκου και τη Λότζια. Περιπλανηθείτε  στους πολυσύχναστους, εμπορικούς δρόμους, αναμειχθείτε με τους ντόπιους και ζήστε την καθημερινότητά τους. Επισκεφτείτε το Αρχαιολογικό ή το ιστορικό Μουσείο της πόλης και ταξιδέψτε μέσα από τα εκθέματά τους στο μακρινό παρελθόν!", 
+            "englishText": "Follow the route from the gate of St. George to the Historical Museum. Admire some of the city's Venetian monuments, the Morosini Fountain, St. Mark's Basilica and the Loggia. Wander the busy shopping streets, mingle with the locals and experience their daily life. Visit the city's Archaeological or Historical Museum and travel to the distant past through their exhibits!",
+
+            "coveRoute" : 
+            [                
+                {
+                    "key" : "coveRoute1",
+                    "englishTitle" : "ST. George Gate",
+                    "englishText" : "Τhe exit of the Venetian gate of St. George, also known as Maroulas Gate or Lazareto Gate, which led to the eastern provinces of the city. The gate has been designed by Giulio Savorgnan and it was dedicated to the soldier Saint George. Saint George was depicted as a horseman on the central portal of the entrance of the gate, which was unfortunately demolished in 1917.",
+                    "greekTitle" : "Πύλη Αγίου Γεωργίου",
+                    "greekText" : "H έξοδος της ενετικής πύλης του Αγίου Γεωργίου, γνωστή και ως Πύλη του Μαρουλά ή Πύλη του Λαζαρέτο οδηγούσε προς τις ανατολικές επαρχίες της πόλης. Σχεδιάστηκε από τον Τζούλιο Σαβορνιάνο και ήταν αφιερωμένη στον στρατιωτικό Άγιο Γεώργιο.Ο Άγιος Γεώργιος εικονιζόταν καβαλάρης στο κεντρικό θύρωμα της εισόδου της πύλης, όμως δυστυχώς το 1917 κατεδαφίστηκε."
+                    ,"coordinates" : "35.33724,25.13697",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Λεωφ. Ἰκάρου, Ηράκλειο 712 02",
+                    "addressE" : "Ikarou Avenue, Heraklion 712 02",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "coveRoute2",
+                    "englishTitle" : "Archaelogical museum",
+                    "englishText" : "Τhe Archaeological Museum of Heraklion hosts archaeological findings from all over Crete, covering the history of the island for more than 5500 years. A dominant position is occupied by the treasures of the Minoan culture, such as the snake goddesses, the bull's head rhyton, the Phaistos Disc, the Ring of Minos, etc.",
+                    "greekTitle" : "Αρχαιολογικό μουσείο",
+                    "greekText" : "Το Αρχαιολογικό Μουσείο Ηρακλείου φιλοξενεί αρχαιολογικά ευρήματα απ’ όλη την Κρήτη, καλύπτοντας την ιστορία του νησιού για περισσότερο από 5500 χρόνια. Κυρίαρχη θέση κατέχουν οι θησαυροί του μινωικού πολιτισμού, όπως οι θεές των Όφεων, το ρυτό της ταυροκεφαλής, ο Δίσκος της Φαιστού, το Δακτυλίδι του Μίνωα κ.α."
+                    ,"coordinates" : "35.33904,25.13728",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",                    
+                    "addressG" : "Ξανθουδίδη και, Χατζηδάκη 1, Ηράκλειο 712 02",
+                    "addressE" : "Xanthoudidi and Chatzidakis 1, Herkalion 712 02",
+                    "contact" : "281 027 9000",
+                    "openTime": "Δευτέρα και Τετάρτη ως Κυριακή , 08:30- 15:30, Τρίτη 10:00-17:00",
+                    "openTimeEng" : "Monday and Wednesday - Sunday , 08:30- 15:30, Tuesday 10:00-17:00",
+                    "EntryG" :"ΓΕΝΙΚΗ ΕΙΣΟΔΟΣ: 12 € ",
+                    "EntryE" : "General Ticket: 12 €"
+                },                
+                {
+                    "key" : "coveRoute3",
+                    "englishTitle" : "Eleftherias Square",
+                    "englishText" : "During the Venetian period, the square was used for the training of the mercenary army. Later, when the Gate of St. Georgios was built, it was renamed St. Georgios Square, while in 1628 a water bridge supported by three arches was built, as part of the city's water supply infrestructure, giving the square the name Tris Kamares (=Three Arches). Currently, the square is buzzing with life at all hours of the day and night. You can enjoy your coffee in the cafes located around it, while young people engaging in activities, such as skateboarding. A variety of events and exhibitions are organized at Eleftherias Square and during the Christmas season it turns into a small Christmas village.",
+                    "greekTitle" : "Πλατεία Ελευθερίας",
+                    "greekText" : "Η πλατεία χρησίμευε την περίοδο της Ενετοκρατίας για την άσκηση του μισθοφορικού στρατού. Αργότερα, όταν χτίστηκε η πύλη του Αγ. Γεωργίου μετονομάστηκε σε πλατεία Αγίου Γεωργίου, ενώ το 1628 στο πλαίσιο υδροδότησης της πόλης, κατασκευάστηκε μία υδατογέφυρα στηριζόμενη σε τρία τόξα, δίνοντας το όνομα Τρεις Καμάρες. Σήμερα, η πλατεία σφύζει από ζωή όλες τις ώρες της μέρας. Μπορείτε να απολαύσετε τον καφέ σας, παρατηρώντας τους νέους που επιδίδονται σε δραστηριότητες, όπως το skateboard. Στην πλατεία διοργανώνονται εκδηλώσεις, εκθέσεις, ενώ τα  Χριστούγεννα μετατρέπεται σε ένα μικρό χριστουγεννιάτικο χωριό."
+                    ,"coordinates" : "35.33768,25.13647",
+                    "filterEng" : "Park",
+                    "filterGreek": "Πλατεία",                    
+                    "addressG" : "Πλατεία Ελεθερίας",
+                    "addressE" : "Eleftherias Square",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                }, 
+                {
+                    "key" : "coveRoute4",
+                    "englishTitle" : "Daidalou Street",
+                    "englishText" : "Daidalou Street is one of the best known and most frequented shopping streets of the city, where you will have the opportunity to meet from street vendors to branded shops. The name of the street comes from Daedalus and his son Icarus, who according to mythology, were the first aviators in the history of humankind.",
+                    "greekTitle" : "Οδός Δαιδάλου",
+                    "greekText" : "Η οδός Δαιδάλου είναι ένας από τους πιο γνωστούς και πολυσύχναστους, εμπορικούς δρόμους της πόλης, όπου θα έχετε την ευκαιρία να συναντήσετε από πλανόδιους μικροπωλητές μέχρι επώνυμα εμπορικά καταστήματα. Το όνομά της προέρχεται από τον Δαίδαλο και τον γιο του Ίκαρο, οι οποίοι σύμφωνα με τη μυθολογία, ήταν οι πρώτοι αεροπόροι στην ιστορία της ανθρωπότητας."
+                    ,"coordinates" : "35.33865,25.13476",
+                    "filterEng" : "Shopping_street",
+                    "filterGreek": "Εμπορικός_δρόμος",                    
+                    "addressG" : "Οδός Δαιδάλου, Ηράκλειο 712 01",
+                    "addressE" : "Daidalou Street, Heraklion 712 01",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                    
+                {
+                    "key" : "coveRoute5",
+                    "englishTitle" : "Morosini Fountain",
+                    "englishText" : "The Fontana Morosini is the best-known fountain in Heraklion, serving as a landmark for locals and visitors alike. It was constructed by Francesco Morosini in order to transport drinking water from Mount Youchtas to Heraklion. It is adorned with reliefs of scenes from mythology, marine life and coats of arms. Above the basin, there are four lions from whose mouth water flows. The fountain was originally crowned with a large statue of Poseidon, which was later destroyed, probably in an earthquake.",
+                    "greekTitle" : "Κρήνη Μοροζίνι",
+                    "greekText" : "Η Κρήνη Μοροζίνι αποτελεί σημείο αναφοράς τόσο για τους κατοίκους του Ηρακλείου όσο και για τους επισκέπτες του. Κατασκευάστηκε από τον Φραγκίσκο Μοροζίνι με σκοπό τη μεταφορά νερού από το βουνό Γιούχτας προς το Ηράκλειο και διακοσμείται με ανάγλυφες μυθολογικές παραστάσεις, θαλάσσιες μορφές και διάφορα οικόσημα. Πάνω από τη δεξαμενή υψώνονται τέσσερα λιοντάρια, από τα στόματα των οποίων ρέει νερό. Στην κορυφή της δέσποζε ένα μεγάλο άγαλμα του Ποσειδώνα, το οποίο όμως κατέρρευσε πιθανώς από σεισμό."
+                    ,"coordinates" : "35.33916,25.13317",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Πλατεία Λιονταριών, 71201",
+                    "addressE" : "Liontaria Square, 71 201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                          
+                {
+                    "key" : "coveRoute6",
+                    "englishTitle" : "ST. Mark Basilica",
+                    "englishText" : "The Basilica of St. Mark is a church that was built in the first years of Venetian rule (1239) and was the place where the official assumption of the duties of the rulers and officials took place. After the Turkish conquest (1669), the temple was converted into a mosque (1915). The building was renovated after 1956 and today serves as a Municipal Art Gallery.",
+                    "greekTitle" : "Βασιλική του Αγίου Μάρκου",
+                    "greekText" : "Η Βασιλική του Αγίου Μάρκου είναι εκκλησία που κτίστηκε τους πρώτους ενετικούς χρόνους (1239) και αποτέλεσε τον τόπο, όπου γινόταν η επίσημη ανάληψη των καθηκόντων των αρχόντων και των αξιωματούχων. Μετά την τουρκική κατάκτηση (1669), ο ναός μετατράπηκε σε τζαμί (1915). Το κτίριο ανακαινίστηκε μετά το 1956 και σήμερα λειτουργεί ως δημοτική πινακοθήκη."
+                    ,"coordinates" : "35.33925,25.13358",
+                    "filterEng" : "Temple",
+                    "filterGreek": "Ναός",                    
+                    "addressG" : "Πλατεία Λιονταριών, 71201",
+                    "addressE" : "Liontaria Square, 71 201",
+                    "contact" : "281 340 9000",
+                    "openTime": "Δευτέρα-Σάββατο 09:00-14:00",
+                    "openTimeEng" : "Monday-Saturday 09:00-14:00",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "coveRoute7",
+                    "englishTitle" : "Loggia",
+                    "englishText" : "Loggia is an elegant Venetian building built in 1626-1628 by Francesco Morosini (the fourth building). Nobles and Lords gathered in the building and spent their free time, discussing various issues, which concerned the city. Currently, it houses Services of the Municipality of Heraklion.",
+                    "greekTitle" : "Λότζια",
+                    "greekText" : "Η Λότζια είναι ένα κομψότατο, ενετικό οικοδόμημα  που χτίστηκε το 1626-1628 από τον Φραγκίσκο Μοροζίνι (η τέταρτη κατά σειρά). Στο κτίριο συγκεντρώνονταν ευγενείς και άρχοντες και περνούσαν τον ελεύθερο χρόνο τους συζητώντας διάφορα θέματα, που απασχολούσαν την πόλη. Σήμερα, στεγάζει υπηρεσίες του Δήμου Ηρακλείου."
+                    ,"coordinates" : "35.33984,25.13404",
+                    "filterEng" : "Monument",
+                    "filterGreek": "Μνημείο",                    
+                    "addressG" : "Οδός 25ης Αυγούστου 25, 71201",
+                    "addressE" : "25th August Street, 71201",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "coveRoute8",
+                    "englishTitle" : "Chandakos Street",
+                    "englishText" : "Walk on the pedestrian Chandakos Street, where you will find beautiful neoclassical buildings, shops, as well as cafes. The name of the street is due to the 'ḫandaq' - the moat which had been built during the Arab period, (824-961 Α.D.) when the city had been walled by the Arabs, giving it at the same time its name, Rabd al-Handaq - Chandax-Chandakas, or Fortress of the moat.",
+                    "greekTitle" : "Οδός Χάνδακος",
+                    "greekText" : "Περπατήστε στον πεζόδρομο της οδού Χάνδακος, όπου θα συναντήσετε όμορφα νεοκλασικά κτίρια,  εμπορικά καταστήματα, αλλά και καφετέριες. Το όνομα της οδού οφείλεται στο «χαντάκι» - τάφρο που είχε διαμορφωθεί κατά την αραβική περίοδο, (824-961 μ.Χ) όταν η πόλη είχε περιτειχιστεί από τους Άραβες, δίνοντας συγχρόνως και το όνομα στην πόλη, Ραμπντ Ελ Χαντάκ - Χάνδαξ -Χάνδακας ή Φρούριο της Τάφρου. "
+                    ,"coordinates" : "35.34031,25.13106",
+                    "filterEng" : "Shopping_street",
+                    "filterGreek": "Εμπορικός_δρόμος",                    
+                    "addressG" : "Οδός Χάνδακος, Ηράκλειο 712 01",
+                    "addressE" : "Chandakos Street, Heraklion 712 01",
+                    "contact" : "",
+                    "openTime": "Ανοιχτά όλο το 24ωρο",
+                    "openTimeEng" : "Open all day",
+                    "EntryG" :"Ελεύθερη είσοδος",
+                    "EntryE" : "Free Entrance"
+                },                
+                {
+                    "key" : "coveRoute9",
+                    "englishTitle" : "Historical Museum ",
+                    "englishText" : "Starting from early Christian times, the Historical Museum of Crete presents the turbulent history of the large Mediterranean island up until the mid-20th century. The periodical exhibitions cover a wide range, from Byzantine to modern art, highlighting leading literary figures of Greece, such as Elytis and Kazantzakis, and the presentation of major historical events from the end of the 19th century to the Second World War.",
+                    "greekTitle": "Ιστορικό Μουσείο Κρήτης",
+                    "greekText" : "Με αφετηρία τους πρώτους χριστιανικούς χρόνους το Ιστορικό Μουσείο Κρήτης παρουσιάζει στους επισκέπτες του την πολυτάραχη ιστορία και την τέχνη του μεγάλου μεσογειακού νησιού ως τα μέσα του 20ού  αιώνα. Οι περιοδικές εκθέσεις κινούνται σε ένα ευρύ φάσμα, από τη Βυζαντινή ως τη σύγχρονη τέχνη, την ανάδειξη κορυφαίων λογοτεχνικών μορφών της Ελλάδας, όπως ο Ελύτης κι ο  Καζαντζάκης, και την παρουσίαση μεγάλων ιστορικών γεγονότων από το τέλος του 19ου αιώνα μέχρι και τον Β΄ Παγκόσμιο Πόλεμο."
+                    ,"coordinates" : "35.34178,25.13070",
+                    "filterEng" : "Museum",
+                    "filterGreek": "Μουσείο",                    
+                    "addressG" : "Σοφοκλή Βενιζέλου 27 / Λυσιμάχου Καλοκαιρινού 771202 Ηράκλειο, Κρήτη",
+                    "addressE" : "Sofokli Venizelou 27 / Lisimahou Kalokairinou 7, 712 02 Heraklion, Crete",
+                    "contact" : "2810 283219, 2810 288708",
+                    "openTime": "",
+                    "openTimeEng" : "",
+                    "EntryG" :"Ολόκληρο: 7.5€, Μειωμένο: Μαθητές, Φοιτητές και άτομα άνω των 65 ετών (με επίδειξη κάρτας): 4,5 €. Ελεύθερη είσοδος: Παιδιά έως 12 ετών, άνεργοι (με επίδειξη κάρτας), φοιτητές του Πανεπιστημίου Κρήτης, του Πολυτεχνείου Κρήτης, του Ελληνικού Μεσογειακού Πανεπιστημίου και της Ορθόδοξης Ακαδημίας Κρήτης",
+                    "EntryE" : "Whole: €7.5, Reduced: Students, Senior citizens (with ID): €4.5. Free entrance: Children up to 12 years old, unemployed (with ID), students of the University of Crete, the Polytechnic School of Crete, the Hellenic Mediterranean University, and the Orthodox Academy of Crete"
+                }
+            ]
+        }
+    ] 
+
+    
+}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29b94388c0a41a4896eac3686426c83, type: 3}
+  m_Name: FifthPageData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c9f26903846c42f4e8edeee056ec3a3f, type: 3}
+  dimensions: {x: 210, y: 200}
+  tableCollectionName:
+    m_TableCollectionName: Titles
+  table:
+    m_TableReference:
+      m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+  titleText: Virtual Guide
+  titleTable:
+    m_TableReference:
+      m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+    m_TableEntryReference:
+      m_KeyId: 40538604729581568
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+    m_LocalVariables: []
+  titleEntry:
+    m_KeyId: 0
+    m_Key: TitleTextp5
+  descriptionText: In this historical journey, Ariadne and Dominikos will be present
+    to provide you with more information
+  descriptionTable:
+    m_TableReference:
+      m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+    m_TableEntryReference:
+      m_KeyId: 40539147095031808
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+    m_LocalVariables: []
+  descriptionEntry:
+    m_KeyId: 0
+    m_Key: DescriptionTextp5
+  references:
+    version: 2
+    RefIds: []

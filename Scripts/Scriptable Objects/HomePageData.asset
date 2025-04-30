@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d58658e98017e429d8bfbe550fcaf8, type: 3}
+  m_Name: HomePageData
+  m_EditorClassIdentifier: 
+  tableCollectionName:
+    m_TableCollectionName: Titles
+  data:
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794365635837952
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_TitleText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794428516843520
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_CityText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794518245588992
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_DescriptionText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794671639674880
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_CulturalRoadsText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794678421864448
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_FiveRoutesText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794687917768704
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_WalkinthecityText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794693613633536
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_FifteenPointsText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794696818081792
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_AugmentedRealityText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 2794698768433152
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: h_AugmentedDescriptionText
+  references:
+    version: 2
+    RefIds: []

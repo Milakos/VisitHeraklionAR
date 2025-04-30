@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PrefabDb
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: KoulesID
+    Prefab: {fileID: 1682582915701517832, guid: d38e5206ae6eb0a448c458e671d51eed, type: 3}
+  - MeshId: NeoriaID
+    Prefab: {fileID: 8892534492885432708, guid: c75d3269b62a44345b6c282de41f39af, type: 3}
+  - MeshId: 18EnglishmenID
+    Prefab: {fileID: 9081832812507409244, guid: 8eb80c060ce33984b87a3a3494437dbc, type: 3}
+  - MeshId: St_TitusID
+    Prefab: {fileID: 7965965513208393081, guid: 6d8075ffd2f20be429635943d029e76f, type: 3}
+  - MeshId: LoggiaID
+    Prefab: {fileID: 5492826194508003780, guid: c1f3c8d1067ad7b45859d250fcb0e027, type: 3}
+  - MeshId: MarkBasilicaID
+    Prefab: {fileID: 1998261127484900035, guid: 5d03be698b33648448f76a31c7f325f6, type: 3}
+  - MeshId: MoroziniID
+    Prefab: {fileID: 4276788912633977118, guid: 6e1b6fa1cbbe21642a1e1d0ee3a9a754, type: 3}
+  - MeshId: AgoraID
+    Prefab: {fileID: 6279371671014813576, guid: 2bbbae6739f74aa4487bd454ddc14578, type: 3}
+  - MeshId: BemboID
+    Prefab: {fileID: 1620689120733687988, guid: 0749f9b4b9e2c8642a97f1f53bb69a72, type: 3}
+  - MeshId: KornarouID
+    Prefab: {fileID: 1424539382610745009, guid: 04d3dc1b71406f942b5f14eebd013e84, type: 3}
+  - MeshId: AMKID
+    Prefab: {fileID: 6075929637554642122, guid: 270f8eaac81856f4d9cb194ec313ff8f, type: 3}
+  - MeshId: SabionaraID
+    Prefab: {fileID: 8914305544949790541, guid: bcb0eff3d2353ef45be22a19fdd2e51b, type: 3}
+  - MeshId: StPeterID
+    Prefab: {fileID: 925103814221284397, guid: 321fc61af2bcbfb4a8f7f4c2f1b4dd6c, type: 3}
+  - MeshId: HistoricalID
+    Prefab: {fileID: 6062075679700112703, guid: c8ec6b298ad662b4286aa9d979b6c843, type: 3}
+  - MeshId: DermatasID
+    Prefab: {fileID: 1197012766657432723, guid: ee0f0ae93f2d50543abd2ab88f608c8d, type: 3}
+  - MeshId: PriuliID
+    Prefab: {fileID: 5651014785712728004, guid: 5c5f4da977f57934ba9392ffdcaa60ad, type: 3}
+  - MeshId: MFIID
+    Prefab: {fileID: 6816865430720088394, guid: 3e42ece32665e28409ef6edddfc8bae4, type: 3}
+  - MeshId: trinityID
+    Prefab: {fileID: 222812154583257020, guid: 607772fc5b2f01847972c92bfe5e4172, type: 3}
+  - MeshId: EfodouID
+    Prefab: {fileID: 6811286814436670110, guid: 2f64b2e8dd7db614793874fa73b547c2, type: 3}
+  - MeshId: EleftheriasStadiumID
+    Prefab: {fileID: 4464697317591477676, guid: 67888ca2debab9a4098e247c0ebd4800, type: 3}
+  - MeshId: ChanioportaID
+    Prefab: {fileID: 2189166334436473816, guid: 215b3dd9dbe6f884d98343977313cc7d, type: 3}
+  - MeshId: MartinegoID
+    Prefab: {fileID: 4124606465006459321, guid: d54e3f7dc4894ef4cae0ad2c61a9ec02, type: 3}
+  - MeshId: MartinegoPGID
+    Prefab: {fileID: 7271590906883063931, guid: 00b6620962c0d2345b81ebabf78b6bc4, type: 3}
+  - MeshId: PolitistikoID
+    Prefab: {fileID: 4867785787769422042, guid: 4e1c81d5c6326514a830c532efbb5c57, type: 3}
+  - MeshId: JesusGateID
+    Prefab: {fileID: 521099003546784931, guid: 87de984d3566c004ebeb3e37d5ce5664, type: 3}
+  - MeshId: ChatzidakisID
+    Prefab: {fileID: 212810353996709529, guid: 0a18f24487e263c42a05d60120889445, type: 3}
+  - MeshId: ElSquareID
+    Prefab: {fileID: 3033726053548719131, guid: 86b60cecc2694574ba74e7f7da295f81, type: 3}
+  - MeshId: StGeorgeID
+    Prefab: {fileID: 2687137135320209139, guid: 0935f912c209af740b10ea15e0928a23, type: 3}
+  - MeshId: MinasID
+    Prefab: {fileID: 8192297349825883773, guid: ac54928433b81a84e85cbaba5e3c1485, type: 3}
+  - MeshId: CathrinID
+    Prefab: {fileID: 2380628857498508426, guid: 884a3f9fdddc163439d64c6307396d1b, type: 3}
+  - MeshId: MathewID
+    Prefab: {fileID: 5623930130754016367, guid: e12b17c1b645ece409ce787f7bdf19b4, type: 3}

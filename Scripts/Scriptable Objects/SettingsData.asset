@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d58658e98017e429d8bfbe550fcaf8, type: 3}
+  m_Name: SettingsData
+  m_EditorClassIdentifier: 
+  tableCollectionName:
+    m_TableCollectionName: Titles
+  data:
+  - text: Settings
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: SettingsTitleText
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: SettingsTitleText
+  - text: Municipality of Herakleion
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_FirstButtonTitle
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_FirstButtonTitle
+  - text: About us
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_FirstDescriptionText
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_FirstDescriptionText
+  - text: Language
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_SecondButtonTitle
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_SecondButtonTitle
+  - text: Greek
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_SecondDescriptionText
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_SecondDescriptionText
+  - text: Terms and Conditions
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_ThirdButtonTitle
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_ThirdButtonTitle
+  - text: About usage of this App
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_ThirdDescriptionText
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_ThirdDescriptionText
+  - text: Developed by
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_ForthButtonTitle
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_ForthButtonTitle
+  - text: Forth
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: Titles
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: s_ForthDescriptionText
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: s_ForthDescriptionText
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d58658e98017e429d8bfbe550fcaf8, type: 3}
+  m_Name: CostalRouteMain
+  m_EditorClassIdentifier: 
+  tableCollectionName:
+    m_TableCollectionName: Titles
+  data:
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8765365728886784
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: CoastalRouteTitleText
+  - text: minutesText
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8765392358522880
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: minutesText
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8765462659252224
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: RouteCountertext
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8765495681007616
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: CR_infoDescriptiontext
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767288066490368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: FirstRouteTitle
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767292541812736
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: FirstRouteDescription
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767295641403392
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: SecondRouteTitle
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767298732605440
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: SecondRouteDescription
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767301760892928
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: ThirdRouteTitle
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767655240056832
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: ThirdRouteDescription
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767700857307136
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: ForthRouteTitle
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767705043222528
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: ForthRouteDescription
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767707819851776
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: FifthRouteTitle
+  - text: 
+    tableKeyName:
+      m_TableReference:
+        m_TableCollectionName: GUID:2c1f97886068f2e4498498b794fb8b83
+      m_TableEntryReference:
+        m_KeyId: 8767711103991808
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    entry:
+      m_KeyId: 0
+      m_Key: FifthRouteDescription
+  references:
+    version: 2
+    RefIds: []
